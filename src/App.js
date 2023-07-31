@@ -9,8 +9,6 @@ import {Navbar,Nav,Container} from 'react-bootstrap'; ;
 function App() {
   
   return (
-    
-
       <div className="App">
         <Navbar style={{ backgroundColor: '#005985' }} data-bs-theme="dark">
         <Container>
